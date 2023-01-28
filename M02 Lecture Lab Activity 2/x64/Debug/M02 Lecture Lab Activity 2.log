@@ -1,3 +1,2 @@
-﻿  M02LLA2.2.cpp
-M02LLA2.2.obj : error LNK2005: main already defined in M02LLA2.obj
+﻿Source1B.obj : error LNK2005: main already defined in Source1A.obj
 C:\Learning\CSCI 101\M02 Lecture Lab Activity 2\x64\Debug\M02 Lecture Lab Activity 2.exe : fatal error LNK1169: one or more multiply defined symbols found

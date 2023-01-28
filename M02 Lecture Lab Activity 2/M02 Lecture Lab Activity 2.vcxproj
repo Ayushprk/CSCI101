@@ -127,8 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="M02LLA2.cpp" />
-    <ClCompile Include="M02LLA2.2.cpp" />
+    <ClCompile Include="Source1A.cpp" />
+    <ClCompile Include="Source1B.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
