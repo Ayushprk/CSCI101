@@ -10,6 +10,7 @@ a slash and an asterisk and concluding it with an asterisk and slash.
 */
 #include <iostream>
 using namespace std;
+int main2()
 int main()
 {
     //This program computes the area of a trapezoid when the lengths of the bases and the height

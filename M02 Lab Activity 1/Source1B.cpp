@@ -8,7 +8,7 @@ When run using a radius of 3 and height of 4, the correct output should be 113.0
 #include <iomanip> 
 //this header provides the setprecision() manipulator for formatting output
 using namespace std;
-int main()
+int main2()
 {
     //This program computes the volume of a cylinder when the lengths of the radius and the height are input by the user.
     float radius, height, volume;
@@ -23,4 +23,5 @@ int main()
     //Instead of squaring the radius, it's simply multiplied by itself here.
     cout << fixed << showpoint << setprecision(2);
     cout << "The volume of the cylinder to two decimal places is: " << volume << endl;
+    return 0;
 }

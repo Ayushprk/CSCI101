@@ -1,2 +1,2 @@
-﻿Source1B.obj : error LNK2005: main already defined in Source1A.obj
-C:\Learning\CSCI 101\M02 Lecture Lab Activity 2\x64\Debug\M02 Lecture Lab Activity 2.exe : fatal error LNK1169: one or more multiply defined symbols found
+﻿  Source1A.cpp
+  M02 Lecture Lab Activity 2.vcxproj -> C:\Learning\CSCI 101\M02 Lecture Lab Activity 2\x64\Debug\M02 Lecture Lab Activity 2.exe

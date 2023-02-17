@@ -1,7 +1,6 @@
 ﻿  Source1A.cpp
-C:\Learning\CSCI 101\M02 Lab Activity 1\Source1A.cpp(26,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Learning\CSCI 101\M02 Lab Activity 1\Source1A.cpp(14,1): error C2144: syntax error: 'int' should be preceded by ';'
+C:\Learning\CSCI 101\M02 Lab Activity 1\Source1A.cpp(27,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   Source1B.cpp
 C:\Learning\CSCI 101\M02 Lab Activity 1\Source1B.cpp(20,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   Generating Code...
-Source1B.obj : error LNK2005: main already defined in Source1A.obj
-C:\Learning\CSCI 101\M02 Lab Activity 1\x64\Debug\M02 Lab Activity 1.exe : fatal error LNK1169: one or more multiply defined symbols found

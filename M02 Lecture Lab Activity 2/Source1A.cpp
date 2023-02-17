@@ -10,6 +10,7 @@ The correct output value for the supplied values is $59.92.
 #include <iostream>
 #include <fstream>
 using namespace std;
+int main2();
 int main()
 {
 	float total, couponrate;
@@ -25,4 +26,5 @@ int main()
 	outfile.open("bill.txt");
 	outfile << "The total amount due is $" << finaltotal << "  ." << endl;
 	outfile.close();
+	return 0;
 }

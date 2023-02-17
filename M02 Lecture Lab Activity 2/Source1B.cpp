@@ -12,7 +12,7 @@ The correct output value for the supplied values is $59.92.
 
 #include <iostream>
 using namespace std;
-int main()
+int main2()
 {
 	float total = 80.00f;
 	const float taxrate = 0.07f;
@@ -20,4 +20,5 @@ int main()
 	float subtotal = (1 - couponrate) * total;
 	float finaltotal = subtotal + (subtotal * taxrate);
 	cout << "The total amount due is $" << finaltotal << " ." << endl;
+	return 0;
 }
